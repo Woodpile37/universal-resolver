@@ -85,7 +85,7 @@
 		<jackson.annotations.version>2.13.2</jackson.annotations.version>
 		<gson.version>2.8.9</gson.version>
 		<commons-codec.version>1.14</commons-codec.version>
-		<httpclient.version>4.5.13</httpclient.version>
+		<httpclient.version>4.5.14</httpclient.version>
 		<javax.servlet.version>2.5</javax.servlet.version>
 		<springframework.version>6.0.0</springframework.version>
 		<junit.version>4.13.1</junit.version>
